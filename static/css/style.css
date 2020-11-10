@@ -1,0 +1,25 @@
+.numberCircle {
+    width: 90px;
+    height: 90px;
+    margin: 10px;
+    line-height: 90px;
+    border-radius: 50%;
+    background: red;
+    text-align: center;
+    font-size: 32px;
+    border: 2px solid #666;
+    display:inline-block;
+}
+.title {
+  width: 100%;
+  font-size: 48px;
+}
+
+.container {
+  display:block;
+}
+
+.button {
+  height: 60px;
+  width: 120px;
+}
