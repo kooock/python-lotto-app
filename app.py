@@ -21,8 +21,6 @@ def select_numbers(select_amount:int):
 
     lotto = [1,2,3,4,5,6]
 
-    #1
-    lotto = random.sample(lotto_numbers, 6)
 
     return lotto
 
